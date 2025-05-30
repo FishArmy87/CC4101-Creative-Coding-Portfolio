@@ -1,3 +1,3 @@
 # CC4101-Creative-Coding-Portfolio
 
-[this is experiment 1](experiment1.md)
+[this is experiment 1](Experiment1.md)
